@@ -11,16 +11,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Kaushal-04/Finance-Data-Processing-and-Access-Control-Backend.git"
+    "url": "git+https://github.com/jonesmariyan8/Finance-Data-Processing-and-Access-Control-Backend.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/Kaushal-04/Finance-Data-Processing-and-Access-Control-Backend/issues"
+    "url": "https://github.com/jonesmariyan8/Finance-Data-Processing-and-Access-Control-Backend/issues"
   },
-  "homepage": "https://github.com/Kaushal-04/Finance-Data-Processing-and-Access-Control-Backend#readme",
+  "homepage": "https://github.com/jonesmariyan8/Finance-Data-Processing-and-Access-Control-Backend#readme",
   "dependencies": {
     "@prisma/client": "^5.22.0",
     "bcrypt": "^6.0.0",
